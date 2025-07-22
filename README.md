@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Rohanlobo15?style=social)](https://github.com/Rohanlobo15?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=Rohanlobo15&color=blue)](https://github.com/Rohanlobo15)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanlobo15/](https://in.linkedin.com/in/rohan-lobo-68b935280))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/rohan-lobo-68b935280)
 
 ---
 
@@ -69,7 +69,7 @@ A React Native app connecting farmers and vendors for secure, efficient commerce
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn]([https://www.linkedin.com/in/rohanlobo15/](https://in.linkedin.com/in/rohan-lobo-68b935280))
+- [LinkedIn](https://in.linkedin.com/in/rohan-lobo-68b935280)
 - [Email](mailto:rohanlobo15@example.com)
 
 ---
